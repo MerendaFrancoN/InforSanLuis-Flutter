@@ -36,6 +36,8 @@ Con eso instalado, ejecutar en la consola de comandos de windows o en una termin
 ## Estructura del Repositorio
 * **Clases** : En esta carpeta se encuentran las clases que se dictan en el taller, junto a los ejemplos que mostraremos en clase.
    * **Clase 1** : Contiene las diapositivas de la clase, ejemplos de Stateful y Stateless Widget, Guia para la creación de la primer App y finalmente tiene un proyecto extra que hace llamada a una API para que quede como ejemplo.
+   * **Clase 2** : Contiene la guía de la 2da parte del tutorial de "Creando nuestra primer App" y los pasos para lograrlo.
+   * **Clase 3** : Contiene las diapositivas de la clase, un comprimido con archivos de [Figma](https://www.figma.com/) para prototipado de aplicaciones en [Material Design](https://material.io/)
 * **Configuracion_e_Instalacion_de_Flutter**, En este directorio se van a encontrar con dos directorios adentro:<br>
 
    * ***Linux*** - En este van a encontrar documentación para poder configurar e instalar Flutter tanto en un Linux basado en Ubuntu/Debian o en un Linux basado en Arch, como es Manjaro. Leer la documentación y a tener en cuenta que también está a disposición un script básico para poder realizar la instalación de flutter de manera automática para cada una de las dos distros.
