@@ -1,5 +1,12 @@
 # InforSanLuis-Flutter
 
+
+## Links de ejemplos para evaluación final
+* [Ejemplo del Ta-Te-Ti](https://github.com/MerendaFrancoN/InforSanLuis2019_Ta-Te-Ti)
+* [Ejemplo de un Feed](https://github.com/maxpel10/InforSanLuis2019_Feed)
+* [Ejemplo de Formulario]()
+* [Ejemplo de Catalogo y Carrito de Compras]()
+
 # Diseñando y Desarrollando aplicaciones con Flutter
 ![Image](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F82532491%2F173310819539%2F1%2Foriginal.20191125-145242?h=2000&w=720&auto=compress&s=68911c537dd3338a9f222cb922e2e7d6)<br>
 <br>
@@ -26,12 +33,6 @@ fidelidad. Material design para Android. Implementación de prototipos en Flutte
 ---
 # Material para el Taller de Flutter
 En este repositorio se encuentra todo el material necesario para el taller e inclusive links de referencia para intentar solventar cualquier duda.
-
-## Links de ejemplos para evaluación final
-* [Ejemplo del Ta-Te-Ti](https://github.com/MerendaFrancoN/InforSanLuis2019_Ta-Te-Ti)
-* [Ejemplo de un Feed](https://github.com/maxpel10/InforSanLuis2019_Feed)
-* [Ejemplo de Formulario]()
-* [Ejemplo de Catalogo y Carrito de Compras]()
 
 ## Descarga o Clonación del Repositorio
 Para poder realizar una descarga o clonación del repo,  tenemos que tener instalado *Git*, [Git Windows](https://git-scm.com/) o en Linux `$ sudo apt-get update && sudo apt-get install git`. 
