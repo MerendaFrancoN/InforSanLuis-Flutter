@@ -3,7 +3,7 @@
 
 ## Links de ejemplos para evaluación final
 * [Ejemplo del Ta-Te-Ti](https://github.com/MerendaFrancoN/InforSanLuis2019_Ta-Te-Ti)
-* [Ejemplo de un Feed](https://github.com/maxpel10/InforSanLuis2019_Feed)
+* [Ejemplo de un Feed](https://github.com/maxpel10/inforsanluis_2019_feed)
 * [Ejemplo de Formulario](https://github.com/FacundoDecena/formulario)
 * [Ejemplo de Catalogo y Carrito de Compras]()
 
